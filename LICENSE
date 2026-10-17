@@ -1,0 +1,14 @@
+LICENSE SCOPE
+
+The source snapshot under third_party/FT-FSOD retains its upstream Apache
+License 2.0, reproduced at third_party/FT-FSOD/LICENSE, and all existing
+copyright and license notices. Other upstream components retain their own
+licenses. This repository does not relicense third-party material.
+
+An explicit redistribution/reuse license for the newly authored QCBR-Det
+code, documentation and result artifacts has not yet been selected by the
+rights holder. Their public availability is not a blanket license grant.
+Contact the repository owner for reuse permissions until a license is added.
+
+Datasets, pretrained/trained model weights and font files are not included.
+Their respective owners' terms apply independently.
